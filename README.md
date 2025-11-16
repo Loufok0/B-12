@@ -69,10 +69,10 @@ I will attach photos of the project here:
 ## Usage
 - Power on the unit.
 - Interact using the rotary encoder.
-  - Rotate to change selection.
-  - Push to select.
-  - Double push to come back (in an entry).
-  - triple push to confirm the entry.
+ - Rotate to change selection.
+ - Push to select.
+ - Double push to come back (in an entry).
+ - triple push to confirm the entry.
 - Have fun!
 
 ## Troubleshooting
