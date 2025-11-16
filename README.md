@@ -48,14 +48,17 @@ Wiring (your build):
 - Please replace the example above with the exact pin mapping of your project.
 
 Circuit diagram:
-![Alt text](ressources/Circuit_diagram.png)
+<!--
+Source - https://stackoverflow.com/a
+Posted by alciregi, modified by community. See post 'Timeline' for change history
+Retrieved 2025-11-17, License - CC BY-SA 4.0
+-->
 
-## Photos
-I will attach photos of the project here:
-*
-*
-*
-*
+<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Circuit_diagram.png" width="500">)
+
+## Photos:
+<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Hi.jpeg" width="500">)
+<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Menu.jpeg" width="500">)
 
 
 ## Build & Upload
