@@ -48,7 +48,7 @@ Wiring (your build):
 - Please replace the example above with the exact pin mapping of your project.
 
 Circuit diagram:
-![](https://raw.githubusercontent.com/Loufok0/B-12/blob/main/ressources/Circuit_diagram.png)
+![Alt text](ressources/Circuit_diagram.png)
 
 ## Photos
 I will attach photos of the project here:
