@@ -14,7 +14,7 @@ B-12 is a small, custom companion robot based on an Arduino Nano. This repositor
 ## Bill of Materials (example)
 Replace or expand this list with the exact parts you used.
 - Arduino Nano (or compatible)
-- 1 × I2C OLED display (128x64) or similar
+- 1 × I2C OLED display (mine is I²C LCD 1602) or similar
 - 1 × Rotary encoder
 - Wires
 
