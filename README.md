@@ -47,12 +47,8 @@ Notes and safety:
 Wiring (your build):
 - Please replace the example above with the exact pin mapping of your project.
 
-Insert a wiring diagram image here:
-*
-*
-*
-*
-*
+Circuit diagram:
+![](https://raw.githubusercontent.com/Loufok0/B-12/main/resources/Circuit_diagram.png)
 
 ## Photos
 I will attach photos of the project here:
