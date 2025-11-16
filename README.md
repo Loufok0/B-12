@@ -54,11 +54,11 @@ Posted by alciregi, modified by community. See post 'Timeline' for change histor
 Retrieved 2025-11-17, License - CC BY-SA 4.0
 -->
 
-<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Circuit_diagram.png" width="500">)
+<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Circuit_diagram.png" width="500">
 
 ## Photos:
-<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Hi.jpeg" width="500">)
-<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Menu.jpeg" width="500">)
+<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Hi.jpeg" width="500">
+<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Menu.jpeg" width="500">
 
 
 ## Build & Upload
